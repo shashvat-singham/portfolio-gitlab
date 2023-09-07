@@ -178,7 +178,8 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer Intern",
-      company: "DeepInsights , Harvard Business School",
+      company: "DeepInsights ",
+      company: " Harvard Business School",
       companylogo: require("./assets/images/harvardLogo.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
