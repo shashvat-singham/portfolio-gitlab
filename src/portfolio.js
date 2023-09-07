@@ -178,14 +178,15 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer Intern",
-      company: "DeepInsights ",
-      company: " Harvard Business School",
+      company: "DeepInsights",
       companylogo: require("./assets/images/harvardLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "May 2023 – July 2023",
+      desc: " Harvard Business School , MA , USA",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Made a cryptographically secured user authentication flow with social logins and email verification.",
+        "Created a Meeting bot using Zoom webhooks , Zoom REST APIs and Zoom meeting SDK OAuth to access raw data (video and audio streams from a meeting);that joins when the user started their Zoom Meeting, using the user’s meeting access token",
+        " Syncing the meeting to the AWS S3 bucket by deploying the Django backend on AWS ElasticBeanStalk. ",
+        "Tech-Stack : React JS (Frontend), Django (Backend) ,PostgreSQL (Database) , AWS (cloud)"
       ]
     },
     {
