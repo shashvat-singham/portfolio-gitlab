@@ -210,15 +210,9 @@ const workExperiences = {
       desc: " Indian Institute of Technology Kanpur",
       descBullets: [
  " Implemented an constraint based algorithm on the neural network repair that aims to fix the logic of the network at an intermediate layer or at the last layer",
-  "It uses fault localization to find potentially faulty network
-parameters (such as the weights). ",
-      "Our evaluation on MNIST and CIFAR-10 models shows
-that NNREPAIR can improve the accuracy by 45.56 %
-points on poisoned and 10.40 % points on adversarial data ",
-        " Developed a full stack MERN website with Firebase
-authentication system on which user can perform parsing
-by writing grammer.
-"
+  "It uses fault localization to find potentially faulty network parameters (such as the weights). ",
+      "Our evaluation on MNIST and CIFAR-10 models shows that NNREPAIR can improve the accuracy by 45.56 % points on poisoned and 10.40 % points on adversarial data ",
+        " Developed a full stack MERN website with Firebase authentication system on which user can perform parsing by writing grammer."
       ]
     }
   ]
