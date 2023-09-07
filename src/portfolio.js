@@ -192,9 +192,15 @@ const workExperiences = {
     {
       role: "Full Stack Developer",
       company: "LIFO",
-      companylogo: require("./assets/images/harvardLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      companylogo: require("./assets/images/UCB.png"),
+      date: "May 2022 – July 2022",
+      desc: " University of California Berkeley , CA, USA"
+      descBullets: [
+        " Maximized applications’ efficiency, operability, flexibility through optimization and authenticate it with firebase. ",
+  "Implemented a crytographically secured payment gateway with cashfree that supports split payment , refunds, etc ",
+  "Integrated the chat Bot with DialogFlow and the app with google analytics via segment . ",
+  "  Spearheaded transition from LAMP stack to MEAN stack, reducing latency by 40% and increasing database admin effectiveness by 20%."
+]
     },
     {
       role: "Software Engineer Intern",
