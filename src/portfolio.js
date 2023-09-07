@@ -194,7 +194,7 @@ const workExperiences = {
       company: "LIFO",
       companylogo: require("./assets/images/UCB.png"),
       date: "May 2022 – July 2022",
-      desc: " University of California Berkeley , CA, USA"
+      desc: " University of California Berkeley , CA, USA",
       descBullets: [
         " Maximized applications’ efficiency, operability, flexibility through optimization and authenticate it with firebase. ",
   "Implemented a crytographically secured payment gateway with cashfree that supports split payment , refunds, etc ",
