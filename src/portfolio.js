@@ -122,220 +122,40 @@ https://fontawesome.com/icons?d=gallery */
 
 // Education Section
 
-// const educationInfo = {
-//   display: true, // Set false to hide this section, defaults to true
-//   schools: [
-//     {
-//       schoolName: "Harvard University",
-//       logo: require("./assets/images/harvardLogo.png"),
-//       subHeader: "Master of Science in Computer Science",
-//       duration: "September 2017 - April 2019",
-//       desc: "Participated in the research of XXX and published 3 papers.",
-//       descBullets: [
-//         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-//         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-//       ]
-//     },
-//     {
-//       schoolName: "Stanford University",
-//       logo: require("./assets/images/stanfordLogo.png"),
-//       subHeader: "Bachelor of Science in Computer Science",
-//       duration: "September 2013 - April 2017",
-//       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-//       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-//     }
-//   ]
-// };
+const educationInfo = {
+  display: true, // Set false to hide this section, defaults to true
+  schools: [
+    {
+      schoolName: "Indian Institute of Technology Kanpur",
+      logo: require("./assets/images/harvardLogo.png"),
+      subHeader: "BS in Physics",
+      duration: "July 2020 - April 2024",
+      // desc: "Participated in the research of XXX and published 3 papers.",
+    
+  
+    },
+    {
+      schoolName: "Archies Higher Secondary School",
+      logo: require("./assets/images/stanfordLogo.png"),
+      subHeader: "CBSE- Class XII",
+      duration: "May 2018 - April 2019",
+      desc: Percentage: 94% (School Topper)",
+      
+    }
+    ,
+    {
+      schoolName: "Air Force School",
+      logo: require("./assets/images/stanfordLogo.png"),
+      subHeader: "CBSE- Class X",
+      duration: "May 2016 - April 2017",
+      desc: "CGPA: 10.0 (School Topper)",
+      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    }
+  ]
+};
 
 
- <!-- ======= Resume Section ======= -->
-    <section id="resume" class="resume">
-      <div class="container">
 
-        <div class="section-title">
-          <h2>RESUME</h2>
-          <p>  </p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Summary</h3>
-            <div class="resume-item pb-0">
-              <h4>Shashvat Singham</h4>
-              <p><em>An independent and self-motivated undergraduate with proven and tested negotiation, Web development and Machine learning skills.</em></p>
-              <ul>
-                <li>Hall 12 , IIT Kanpur</li>
-                <li>(+91) 840-007-8677</li>
-                <li>shashvats20@iitk.ac.in</li>
-              </ul>
-            </div>
-
-            <h3 class="resume-title">Academic Qualifications</h3>
-            <div class="resume-item">
-              <h4>B.S. in Physics</h4>
-              <h5>2020 - 2024</h5>
-              <p><em><b>Indian Institute of Technology, Kanpur ( IIT-K )</b></em></p>
-<!--               <p>C.P.I : </p> -->
-            </div>
-            <div class="resume-item">
-              <h4>CBSE CLASS XII</h4>
-              <h5>2018 - 2019</h5>
-              <p><em>Archies Higher Secondary School, Kanpur</em></p>
-              <p><b>Percentage: 94 % ( School Topper )</b></p>
-            </div>
-            <div class="resume-item">
-              <!--<h4>Bachelor of  &amp; Graphic </h4>-->
-              <h4>CBSE CLASS X</h4>
-              <h5>2016 - 2017</h5>
-              <p><em>Air Force School, Cantt, kanpur</em></p>
-              <p><b>C.G.P.A : 10.0 ( School Topper )</b></p>
-            </div>
-            <h3 class="resume-title">Work Experience</h3>
-            <div class="resume-item">
-              <h4>DeepInsights ; Harvard business School, MA , U.S.A</h4>
-              <h5>AUG - NOV 2022</h5>
-              <p><em><b>Software Engineering Intern</b></em></p>
-               <ul>
-                <li>  Made a <b> cryptographically secured user authentication</b>
-                  flow with <b>social logins</b> and<b> email verification</b></li>
-                <li>Create a <b>Meeting bot </b>using <b>Zoom webhooks , Zoom
-                  REST APIs</b> and <b>Zoom meeting SDK OAuth </b> to access
-                  raw data (video and audio streams from a meeting);that
-                  joins when the user started their Zoom Meeting, using the
-                  user’s meeting access token.
-                  </li>
-                <li> Syncing the meeting to the <b> AWS S3 bucket </b>by deploying
-                  the Django backend on <b>AWS ElasticBeanStalk</b>.</li>
-                <li>Tech-Stack : React JS (Frontend), Django (Backend) ,
-                  PostgreSQL (Database) , AWS (cloud)</li>
-              </ul></div>
-              
-            <div class="resume-item">
-              <h4>LIFO ; UC Berkeley , CA , U.S.A</h4>
-              <h5>JUN - JUL 2022</h5>
-              <p><em><b>Full Stack Developer Intern</b></em></p>
-             <ul>
-                <li>Maximized applications’ eﬀiciency, operability, flexibility
-                  through <b>optimization </b>and authenticate it with firebase</li>
-                  <li> Liaised with back end developers, front end developers, quality assurance testers, and CTO as needed.</li>
-                <li>Implemented a <b>crytographically secured payment gateway</b>
-                  with<b> cashfree</b> that supports split payment , refunds, etc</li>
-                <li>Integrated the <b>chat Bot</b> with <b>DialogFlow</b> and the app
-                  with <b>google analytics</b> via <b>segment</b> .</li>
-                  <li>Spearheaded transition from LAMP stack to MEAN
-                    stack, reducing latency by<b> 40%</b> and increasing database
-                    admin effectiveness by <b>20%</b>.</li>
-              </ul></div>
-            
-            <br><br><br>
-            <center><a href= ""><button type="button" class="btn btn-outline-dark">Download CV</button></a></center>
-          </div>
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="resume-title">Projects</h3>
-            <div class="resume-item">
-              <h4>Cipher Decoder</h4>
-              <h5>Prof. Manindra Aggarwal - 2023</h5>
-              <p><em></em></p>
-              <ul>
-                <li>Implemented decryption algorithms for multiple ciphers
-                  including Caesar, Permutation-Substitution, Vigenere</li>
-                <li>Implemented Differential Cryptanalysis of Data Encryption
-                  Standard(3-DES) assuming standard key scheduling</li>
-                
-              </ul>
-            </div>
-
-            <div class="resume-item">
-              <h4>Machine Learning : Neural Style Transfer</h4>
-              <h5>Prof. Tushar Sandhan - 2022</h5>
-              <p><em></em></p>
-              <ul>
-                <li> Load pretrained VGG-19 model (Convolutional
-                  Neural Network) ;Extract content and style features</li>
-                <li>Create style and content loss function and minimize the
-                  total loss to generate minimize total loss artistic style
-                  image.</li>
-                
-              </ul>
-            </div>
-
-            <div class="resume-item">
-              <h4>Data science : Tweet Emotion Recognition</h4>
-              <h5>2022</h5>
-              <p><em> </em></p>
-              <ul>
-                <li>Using a Tokenizer in TensorFlow and Padding and
-                  Truncating Sequences. </li>
-                <li>Creating and Training Recurrent Neural Networks.</li>
-                <li>Using NLP and Deep Learning to perform Text
-                  Classification.</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>IIT Kanpur Student search</h4>
-              <h5>2021 - 2022</h5>
-              <p><em></em></p>
-              <ul>
-                
-                <li>Made a website that scraped the data from the Office
-                  Automation Portal .</li>
-                <li>Use SSl VPN to access (If outside the campus ) the
-                  information of all IITK students.</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Python compiler</h4>
-              <h5>2021 - 2022</h5>
-              <p><em></em></p>
-              <ul>
-                <li>Use Tkinter to create Graphical User interfaces (GUIs)
-                  and all standard Python Distributions. </li>
-                <li> All the commands are tokenized in parsed tree using
-                  Tkinter text editor.
-                  </li>
-                <li> Extended the compiler to generate 3-address code(3AC)</li>
-              </ul>
-            </div>
-            
-            
-            <div class="resume-item">
-              <h4>Portfolio Website</h4>
-              <h5>2021 - 2022</h5>
-              <p><em></em></p>
-              <ul>
-                <li>Made a portfolio website hosted on IIT Kanpur
-                  homepage using HTML , CSS and JavaScript.
-                   </li>
-                <li> Use Bootstrap to optimize for loading speed and
-                  performance.
-                  </li>
-                <li>Enhanced web functionality and responsiveness.
-                </li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Mobile App</h4>
-              <h5>2021 - 2022</h5>
-              <p><em></em></p>
-              <ul>
-                <li> Built a fully-functional notes app that runs on android ,
-                  ios and web ; also it stores notes locally to device. </li>
-                <li>Allow the user to change the theme from dark to light
-                 </li>
-                 <li> Shows stats of user’s notes such as total notes,
-                  words written etc</li>
-                <li>Allows User to pin notes and edit notes.
-                </li>
-              </ul>
-            </div>
-            <br><br>
-          <center><a href= ""><button type="button" class="btn btn-outline-dark">Download Resume</button></a></center>
-           
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Resume Section -->
 
 // Your top 3 proficient stacks/tech experience
 
