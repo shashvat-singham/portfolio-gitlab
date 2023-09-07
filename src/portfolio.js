@@ -203,11 +203,23 @@ const workExperiences = {
 ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Research Intern",
+      company: "Neural Network Repair",
+      companylogo: require("./assets/images/iitk.png"),
+      date: "Aug 2022 – Dec 2022",
+      desc: " Indian Institute of Technology Kanpur",
+      descBullets: [
+ " Implemented an constraint based algorithm on the neural network repair that aims to fix the logic of the network at an intermediate layer or at the last layer",
+  "It uses fault localization to find potentially faulty network
+parameters (such as the weights). ",
+      "Our evaluation on MNIST and CIFAR-10 models shows
+that NNREPAIR can improve the accuracy by 45.56 %
+points on poisoned and 10.40 % points on adversarial data ",
+        " Developed a full stack MERN website with Firebase
+authentication system on which user can perform parsing
+by writing grammer.
+"
+      ]
     }
   ]
 };
