@@ -73,8 +73,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Django",
+      fontAwesomeClassname: "fab fa-django"
     },
     {
       skillName: "JavaScript",
@@ -89,8 +89,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "MongoDB",
+      fontAwesomeClassname: "fab fa-mdb"
     },
     {
       skillName: "npm",
