@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Indian Institute of Technology Kanpur",
-        logo: require("./assets/images/harvardLogo.png"),
+        logo: require("./assets/images/iitk.jpeg"),
         subHeader: "BS in Physics",
         duration: "July 2020 - April 2024",
       // descBullets: [
