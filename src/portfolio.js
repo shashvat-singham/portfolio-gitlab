@@ -69,8 +69,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "css5",
+      fontAwesomeClassname: "fab fa-css5-alt"
     },
     {
       skillName: "Django",
@@ -97,8 +97,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "PostgreSQL",
+      fontAwesomeClassname: "fas fa-postgresql"
     },
     {
       skillName: "aws",
@@ -113,8 +113,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Angular",
+      fontAwesomeClassname: "fab fa-angular"
     }
   ],
   display: true // Set false to hide this section, defaults to true
