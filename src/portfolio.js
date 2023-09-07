@@ -23,7 +23,7 @@ const greeting = {
   username: "Shashvat Singham",
   title: "Hi , I'm Shashvat",
   subTitle: emoji(
-    "Fueled by a fascination for Machine Learning, cryptography,  Quantum Computing and Development.Seeking to catalyze innovation at the nexus of these dynamic realms for a future shaped by intelligence and security"
+    "Fueled by a fascination for Machine Learning, cryptography,  Quantum Computing and Development. Seeking to catalyze innovation at the nexus of these dynamic realms for a future shaped by intelligence and security."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1wTGTJCawsyqeoDt7v3H0647Hdb1W5PtP/view?usp=sharing", // Set to empty to hide the button
