@@ -69,12 +69,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css5",
-      fontAwesomeClassname: "fab fa-css5-alt"
+      skillName: "css3",
+      fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "Django",
-      fontAwesomeClassname: "fab fa-django"
+      skillName: "Express js",
+      fontAwesomeClassname: "fab fa-node-js"
     },
     {
       skillName: "JavaScript",
@@ -98,7 +98,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PostgreSQL",
-      fontAwesomeClassname: "fas fa-postgresql"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "aws",
