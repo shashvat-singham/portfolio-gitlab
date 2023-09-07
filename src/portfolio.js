@@ -126,30 +126,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Indian Institute of Technology Kanpur",
+      schoolName: "Harvard University",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "BS in Physics",
-      duration: "July 2020 - April 2024",
-      // desc: [ "Participated in the research of XXX and published 3 papers."]
-    
-  
+      subHeader: "Master of Science in Computer Science",
+      duration: "September 2017 - April 2019",
+      desc: "Participated in the research of XXX and published 3 papers.",
+      descBullets: [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      ]
     },
     {
-      schoolName: "Archies Higher Secondary School",
+      schoolName: "Stanford University",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "CBSE- Class XII",
-      duration: "May 2018 - April 2019",
-      desc: Percentage: 94% (School Topper)",
-       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
-    ,
-    {
-      schoolName: "Air Force School",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "CBSE- Class X",
-      duration: "May 2016 - April 2017",
-      desc: "CGPA: 10.0 (School Topper)",
-      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Bachelor of Science in Computer Science",
+      duration: "September 2013 - April 2017",
+      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
