@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "BS in Physics",
       duration: "July 2020 - April 2024",
-      // desc: "Participated in the research of XXX and published 3 papers.",
+      // desc: [ "Participated in the research of XXX and published 3 papers."]
     
   
     },
@@ -140,7 +140,7 @@ const educationInfo = {
       subHeader: "CBSE- Class XII",
       duration: "May 2018 - April 2019",
       desc: Percentage: 94% (School Topper)",
-      
+       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
     ,
     {
@@ -149,7 +149,7 @@ const educationInfo = {
       subHeader: "CBSE- Class X",
       duration: "May 2016 - April 2017",
       desc: "CGPA: 10.0 (School Topper)",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
