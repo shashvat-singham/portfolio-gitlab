@@ -221,7 +221,11 @@ const workExperiences = {
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key , look at readme.md */
 
-const openSource = {
+const openSource = {  
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  display: true // Set false to hide this section, defaults to true
+};
+
 // Replace 'YOUR_USERNAME' with the GitHub username you want to fetch repositories for
 const username = 'shashvat-singham';
 
@@ -246,10 +250,6 @@ fetch(`https://api.github.com/users/${username}/repos`)
     console.error('There was a problem with the fetch operation:', error);
   });
 
-  
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
-};
 
 // Some big projects you have worked on
 
