@@ -222,6 +222,31 @@ const workExperiences = {
 To know how to get github key , look at readme.md */
 
 const openSource = {
+// Replace 'YOUR_USERNAME' with the GitHub username you want to fetch repositories for
+const username = 'shashvat-singham';
+
+// Make a GET request to the GitHub API
+fetch(`https://api.github.com/users/${username}/repos`)
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error(`Network response was not ok: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then((repositories) => {
+    // 'repositories' now contains an array of the user's repositories
+    console.log(repositories);
+
+    // You can iterate over the repositories and do something with each one
+    for (const repo of repositories) {
+      console.log(repo.name);
+    }
+  })
+  .catch((error) => {
+    console.error('There was a problem with the fetch operation:', error);
+  });
+
+  
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
