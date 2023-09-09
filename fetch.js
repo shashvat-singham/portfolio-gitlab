@@ -6,7 +6,7 @@ require("dotenv").config();
 const GITHUB_TOKEN ="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";
 const GITHUB_USERNAME ="shashvat-singham";
 const USE_GITHUB_DATA = "true";
-const MEDIUM_USERNAME ="@shashvatsingham2001";
+// const MEDIUM_USERNAME ="@shashvatsingham2001";
 
 const ERR = {
   noUserName:
@@ -94,14 +94,14 @@ if (USE_GITHUB_DATA === "true") {
   req.end();
 }
 
-if (MEDIUM_USERNAME !== undefined) {
-  console.log(`Fetching Medium blogs data for ${MEDIUM_USERNAME}`);
-  const options = {
-    hostname: "api.rss2json.com",
-    path: `/v1/api.json?rss_url=https://medium.com/feed/@${MEDIUM_USERNAME}`,
-    port: 443,
-    method: "GET"
-  };
+// if (MEDIUM_USERNAME !== undefined) {
+//   console.log(`Fetching Medium blogs data for ${MEDIUM_USERNAME}`);
+//   const options = {
+//     hostname: "api.rss2json.com",
+//     path: `/v1/api.json?rss_url=https://medium.com/feed/@${MEDIUM_USERNAME}`,
+//     port: 443,
+//     method: "GET"
+//   };
 
   const req = https.request(options, res => {
     let mediumData = "";
