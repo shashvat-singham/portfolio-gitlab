@@ -379,10 +379,10 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "",
-  number: "",
-  email_address: ""
+ subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
+  number: "+91-8400078677",
+  email_address: "shashvat.singham@gmail.com"
 };
 
 // Twitter Section
