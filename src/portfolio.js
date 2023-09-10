@@ -381,8 +381,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
  subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+91-8400078677",
-  email_address: "shashvat.singham@gmail.com"
+  number: "Indian Institute of Technology Kanpur , India",
+  email_address: "Open for opportunities: No"
 };
 
 // Twitter Section
