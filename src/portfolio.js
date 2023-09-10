@@ -183,7 +183,7 @@ const workExperiences = {
       date: "May 2023 – July 2023",
       desc: " Harvard Business School , MA , USA",
       descBullets: [
-        "Made a <b>cryptographically secured</b> user authentication flow with social logins and email verification.",
+        "Made a **cryptographically secured** user **authentication flow** with **social logins** and **email verification**.",
         "Created a Meeting bot using Zoom webhooks , Zoom REST APIs and Zoom meeting SDK OAuth to access raw data (video and audio streams from a meeting);that joins when the user started their Zoom Meeting, using the user’s meeting access token",
         " Syncing the meeting to the AWS S3 bucket by deploying the Django backend on AWS ElasticBeanStalk. ",
         "Tech-Stack : React JS (Frontend), Django (Backend) ,PostgreSQL (Database) , AWS (cloud)"
