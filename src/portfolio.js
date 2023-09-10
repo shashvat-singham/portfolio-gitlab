@@ -331,15 +331,15 @@ const blogSection = {
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      title: "Quantum Cryptography: Secure Communication with Unbreakable Codes",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Can Quantum Cryptography Truly Create Unbreakable Codes? Explore the Quantum Advantage, Key Distribution, and Real-World Applications in this Secure Digital Revolution."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://medium.com/@shashvatsingham2001/quantum-entanglement-quantum-field-theory-and-their-computational-implications-507f675de220",
+      title: "Quantum Entanglement, Quantum Field Theory, and Their Computational Implications",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Uniting Quantum Entanglement and QFT: Pioneering Quantum Computing and Secure Cryptography?"
     }
   ],
   display: true // Set false to hide this section, defaults to true
