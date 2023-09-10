@@ -356,7 +356,7 @@ const talkSection = {
   talks: [
     {
       title: "Build Actions For ROBOGAMES",
-      subtitle: "Sucessfully Conducted IARC (International Autonomous Robot Competition) , Manuever , Robogames",
+      subtitle: "Conducted IARC , Manuever and Robogames",
       slides_url: "https://drive.google.com/drive/folders/1DEYKxLcY1No8pD1H70jfjK15IYHciywm?usp=sharing",
       event_url: "https://www.facebook.com/techkriti.iitk/"
     }
