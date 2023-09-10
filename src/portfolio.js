@@ -330,10 +330,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Quantum Cryptography: Secure Communication with Unbreakable Codes",
+      url: "https://medium.com/@shashvatsingham2001/quantum-cryptography-secure-communication-with-unbreakable-codes-650f451c83b4",
+      title: "Secure Communication with Unbreakable Codes",
       description:
-        "Can Quantum Cryptography Truly Create Unbreakable Codes? Explore the Quantum Advantage, Key Distribution, and Real-World Applications in this Secure Digital Revolution."
+        "Can Quantum Cryptography Truly Create Unbreakable Codes? "
     },
     {
       url: "https://medium.com/@shashvatsingham2001/quantum-entanglement-quantum-field-theory-and-their-computational-implications-507f675de220",
