@@ -357,8 +357,8 @@ const talkSection = {
     {
       title: "Build Actions For ROBOGAMES",
       subtitle: "Sucessfully Conducted IARC (International Autonomous Robot Competition) , Manuever , Robogames",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/techkriti.iitk/photos/the-only-way-you-can-prove-your-mettle-in-a-war-is-by-actually-winningtechkriti-/2269981779680232/?paipv=0&eav=AfY7DYDKIphrXezHUKTOrWMItp9_HL0Y0WrHAF_HThxNdwiykCIXMcfqZ0TEQ4Nk3bc&_rdr"
+      slides_url: "https://drive.google.com/drive/folders/1DEYKxLcY1No8pD1H70jfjK15IYHciywm?usp=sharing",
+      event_url: "https://www.facebook.com/techkriti.iitk/"
     }
   ],
   display: true // Set false to hide this section, defaults to true
