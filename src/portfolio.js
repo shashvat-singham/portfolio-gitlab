@@ -381,8 +381,10 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
  subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "Indian Institute of Technology Kanpur , India",
-  email_address: "Open for opportunities: No"
+  "Indian Institute of Technology Kanpur , India"
+   "Open for opportunities: No"
+  // number: "Indian Institute of Technology Kanpur , India",
+  // email_address: "Open for opportunities: No"
 };
 
 // Twitter Section
