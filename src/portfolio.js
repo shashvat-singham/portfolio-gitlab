@@ -355,8 +355,8 @@ const talkSection = {
 
   talks: [
     {
-      title: "ROBOGAMES: IARC, Manuever and Robowars ",
-      subtitle: "Techkriti, Asia's Largest Technical and Enterpreneural Fest ",
+      title: "ROBOGAMES: IARC, Manuever, Robowars",
+      subtitle: "Techkriti, Asia's Largest Technical and Enterpreneural Fest @IITK ",
       slides_url: "https://drive.google.com/drive/folders/1DEYKxLcY1No8pD1H70jfjK15IYHciywm?usp=sharing",
       event_url: "https://www.facebook.com/techkriti.iitk/"
     }
