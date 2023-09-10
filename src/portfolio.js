@@ -355,10 +355,10 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      title: "Build Actions For ROBOGAMES",
+      subtitle: "Sucessfully Conducted IARC (International Autonomous Robot Competition) , Manuever , Robogames",
       slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      event_url: "https://www.facebook.com/techkriti.iitk/photos/the-only-way-you-can-prove-your-mettle-in-a-war-is-by-actually-winningtechkriti-/2269981779680232/?paipv=0&eav=AfY7DYDKIphrXezHUKTOrWMItp9_HL0Y0WrHAF_HThxNdwiykCIXMcfqZ0TEQ4Nk3bc&_rdr"
     }
   ],
   display: true // Set false to hide this section, defaults to true
