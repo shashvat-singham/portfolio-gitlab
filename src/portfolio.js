@@ -380,9 +380,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  subtitle:"Indian Institute of Technology Kanpur , India",
-   subtitle:"Open for opportunities: No"
+    "Discuss a project or just want to say hi? My Inbox is open for all.\nIndian Institute of Technology Kanpur , India \n Open for opportunities: No"
   // number: "Indian Institute of Technology Kanpur , India",
   // email_address: "Open for opportunities: No"
 };
