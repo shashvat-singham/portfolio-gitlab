@@ -381,13 +381,14 @@ const contactInfo = {
   title: emoji("Reach Out to me!"),
  subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  // email_address: "Open for opportunities: No"
+  number: "Indian Institute of Technology Kanpur",
+  email_address: "Open for opportunities: No"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "ShashvatSi58169", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
