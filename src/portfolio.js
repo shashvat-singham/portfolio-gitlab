@@ -313,13 +313,13 @@ const achievementSection = {
       // descBullets: ["All India Rank 223, JEE Mains (B.Arch / B. Planning)","All India Rank 254, National Mathematics Olympiad(NMO)"
       // ]
       
-      // footerLink: [
-      //   {name: "Certification", url: ""},
-      //   {
-      //     name: "Final Project",
-      //     url: "https://pakistan-olx-1.firebaseapp.com/"
-      //   }
-      // ]
+      footerLink: [
+        {name: "Certification", url: ""},
+        {
+          name: "Final Project",
+          url: "https://pakistan-olx-1.firebaseapp.com/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
