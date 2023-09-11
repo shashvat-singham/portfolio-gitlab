@@ -36,9 +36,9 @@ const socialMediaLinks = {
   github: "https://github.com/shashvat-singham",
   linkedin: "https://www.linkedin.com/in/shashvat-singham/",
   gmail: "shashvat.singham@gmail.com",
-  // gitlab: "https://gitlab.com/saadpasta",
+  gitlab: "https://gitlab.com/shashvat-singham",
   facebook: "https://www.facebook.com/shashvat.singham/",
-  // medium: "https://medium.com/@saadpasta",
+  medium: "https://medium.com/@shashvatsingham2001",
   stackoverflow: "https://stackoverflow.com/users/18127615/shashvat-singham",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -367,14 +367,14 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  // title: emoji("Podcast 🎙️"),
-  // subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  title: emoji("Podcast 🎙️"),
+  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
-  // // Please Provide with Your Podcast embeded Link
-  // podcast: [
-  //   "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
-  // ],
-  // display: true // Set false to hide this section, defaults to true
+  // Please Provide with Your Podcast embeded Link
+  podcast: [
+    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+  ],
+  display: true // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
