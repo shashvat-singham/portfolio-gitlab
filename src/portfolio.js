@@ -285,7 +285,7 @@ const achievementSection = {
       imageAlt: "Inter-IIt Tech Meet",
       footerLink: [
         {
-          name: "GitHub",
+          name: "Final Project ",
           url: "https://github.com/shashvat-singham/Inter-IIT-ISRO.git"
         },
         
@@ -299,7 +299,7 @@ const achievementSection = {
       imageAlt: "Urvija-AI",
       footerLink: [
         {
-          name: "GitHub",
+          name: "Final Project",
           url: "https://github.com/shashvat-singham/urvija-AI"
         }
       ]
@@ -310,8 +310,8 @@ const achievementSection = {
       subtitle: "Position of Responsibilities and academic ",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "Miscellaneous",
-      // descBullets: ["All India Rank 223, JEE Mains (B.Arch / B. Planning)","All India Rank 254, National Mathematics Olympiad(NMO)"
-      // ]
+      descBullets: ["All India Rank 223, JEE Mains (B.Arch / B. Planning)","All India Rank 254, National Mathematics Olympiad(NMO)"
+      ],
       
       footerLink: [
         {name: "Certification", url: ""},
