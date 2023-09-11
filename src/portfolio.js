@@ -309,7 +309,7 @@ const achievementSection = {
       title: "PoRs/Academic ",
       subtitle: "Position of Responsibilities and academic ",
       image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "Miscellaneous"
+      imageAlt: "Miscellaneous",
       // descBullets: ["All India Rank 223, JEE Mains (B.Arch / B. Planning)","All India Rank 254, National Mathematics Olympiad(NMO)"
       // ]
       
