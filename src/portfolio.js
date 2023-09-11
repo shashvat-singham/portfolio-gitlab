@@ -235,12 +235,16 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/deep.jpeg"),
-      projectName: "DeepInsights",
+      projectName: "DeepInsight",
       projectDesc: "Crafted a robust user authentication flow fortified with cryptographic security, seamlessly integrating social logins and email verification. Engineered a Zoom Meeting bot, powered by Zoom webhooks, REST APIs, and OAuth, enabling real-time access to raw meeting data, effortlessly synchronized with an AWS S3 bucket via a Django backend deployed on AWS ElasticBeanstalk.",
       footerLink: [
         {
           name: "Visit Website",
           url: "https://www.deepinsight.io/en/about"
+        }
+        {
+          name: "GitHub",
+          url: "https://github.com/shashvat-singham/DeepInsights-Zoom-App"
         }
         //  you can add extra buttons here.
       ]
@@ -253,6 +257,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://www.lifo.ai/"
+        }
+        {
+          name: "GitHub",
+          url: "https://github.com/shashvat-singham/LIFO_INTERN"
         }
       ]
     }
@@ -270,52 +278,48 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: " The Chandrayaan Moon Mapping Challenge",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Third runner up in ISRO's The Chandrayaan Moon Mapping Challenge @ Inter-IIT-Tech-Meet'23",
+      image: require("./assets/images/isro.jpeg"),
+      imageAlt: "Inter-IIt Tech Meet",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "GitHub",
+          url: "https://github.com/shashvat-singham/Inter-IIT-ISRO.git"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+        
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Urvija AI",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "I created a Business Requirements Document (BRD) with research-based benchmarks, followed by a Product Requirement Document (PRD) featuring wireframes, prototypes, and AI/ML specifications, leveraging Kaggle data. Achieved a 10% productivity boost by utilizing ML algorithms to extract and monetize information from data",
+      image: require("./assets/images/urvija.jpeg"),
+      imageAlt: "Urvija-AI",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "GitHub",
+          url: "https://github.com/shashvat-singham/urvija-AI"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "PoRs/Academic ",
+      subtitle: "Position of Responsibilities and academic ",
       image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+      imageAlt: "Miscellaneous",
+      descBullets: ["All India Rank 223, JEE Mains (B.Arch / B. Planning)","All India Rank 254, National Mathematics Olympiad
+(NMO)"
       ]
+      // footerLink: [
+      //   {name: "Certification", url: ""},
+      //   {
+      //     name: "Final Project",
+      //     url: "https://pakistan-olx-1.firebaseapp.com/"
+      //   }
+      // ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
