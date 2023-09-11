@@ -257,7 +257,7 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://www.lifo.ai/"
-        }
+        },
         {
           name: "GitHub",
           url: "https://github.com/shashvat-singham/LIFO_INTERN"
