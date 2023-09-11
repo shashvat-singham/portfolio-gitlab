@@ -308,18 +308,21 @@ const achievementSection = {
     {
       title: "PoRs / Academic ",
       subtitle: "Position of Responsibilities and academic ",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/por.jpg"),
       imageAlt: "Miscellaneous",
-      descBullets: ["All India Rank 223, JEE Mains (B.Arch / B. Planning)","All India Rank 254, National Mathematics Olympiad(NMO)"
-      ],
+      // descBullets: ["All India Rank 223, JEE Mains (B.Arch / B. Planning)","All India Rank 254, National Mathematics Olympiad(NMO)"
+      // ],
       
       footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
+        {name: "Coordinator, ROBOGAMES, Techkriti , IIT Kanpur", url: ""},
+        {name: "Senior Executive , Show Management, Techkriti, IIT Kanpur", url: ""},
+        {name: "All India Rank 223, JEE Mains (B.Arch / B. Planning)", url: ""},
+        {name: "All India Rank 254, National Mathematics Olympiad (NMO)", url: ""},
+        {name: "All India Rank 189, National Aptitute Olympiad (NAO)", url: ""},
+        {name: "All India Rank 403, National Talent Search Test (NTST)", url: ""},
+        {name: "Volunteered in Covid-19 testing in college Campus by Harvard Medical School ( HMS )", url: ""},
+        {name: "National Cadet Corp ( AIR FORCE NCC ) A Level Certificate of UNIT 03 UP AIR SQN NCC.", url: ""}
+      ] 
     }
   ],
   display: true // Set false to hide this section, defaults to true
