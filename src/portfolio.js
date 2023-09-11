@@ -190,7 +190,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Full Stack Developer",
+      role: "Full Stack Developer Intern",
       company: "LIFO",
       companylogo: require("./assets/images/UCB.png"),
       date: "May 2022 – July 2022",
