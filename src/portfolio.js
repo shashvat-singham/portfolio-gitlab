@@ -234,9 +234,9 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/deep2.jpg"),
+      image: require("./assets/images/deep.jpeg"),
       projectName: "DeepInsights",
-      projectDesc: "Developed a secure user authentication system with social logins, email verification, and a Zoom Meeting bot using a tech stack including React JS, Django, PostgreSQL, and AWS, enabling real-time access to Zoom meeting data and seamless integration with AWS S3.",
+      projectDesc: "Crafted a robust user authentication flow fortified with cryptographic security, seamlessly integrating social logins and email verification. Engineered a Zoom Meeting bot, powered by Zoom webhooks, REST APIs, and OAuth, enabling real-time access to raw meeting data, effortlessly synchronized with an AWS S3 bucket via a Django backend deployed on AWS ElasticBeanstalk.",
       footerLink: [
         {
           name: "Visit Website",
@@ -248,7 +248,7 @@ const bigProjects = {
     {
       image: require("./assets/images/lifo.png"),
       projectName: "LIFO",
-      projectDesc: "Transitioned from LAMP to MEAN stack; Enhanced application efficiency and security by integrating Firebase authentication, implemented a secure payment gateway with Cashfree, integrated chat bot with DialogFlow, resulting in reduced latency by 40% and improved database admin effectiveness by 20%.",
+      projectDesc: "Optimized application performance with Firebase authentication, implemented a robust payment gateway with Cashfree supporting advanced features, seamlessly integrated DialogFlow chatbot, and executed a transformative shift from LAMP to MEAN stack, resulting in a remarkable 40% latency reduction and 20% increase in database administration efficiency.",
       footerLink: [
         {
           name: "Visit Website",
