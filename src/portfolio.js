@@ -306,7 +306,7 @@ const achievementSection = {
     },
 
     {
-      title: "PoRs/Academic ",
+      title: "PoRs / Academic ",
       subtitle: "Position of Responsibilities and academic ",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "Miscellaneous",
