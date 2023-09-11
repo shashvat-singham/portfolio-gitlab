@@ -234,25 +234,25 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/deep2.jpg"),
+      projectName: "DeepInsights",
+      projectDesc: "Developed a secure user authentication system with social logins, email verification, and a Zoom Meeting bot using a tech stack including React JS, Django, PostgreSQL, and AWS, enabling real-time access to Zoom meeting data and seamless integration with AWS S3.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://www.deepinsight.io/en/about"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/lifo.png"),
+      projectName: "LIFO",
+      projectDesc: "Transitioned from LAMP to MEAN stack; Enhanced application efficiency and security by integrating Firebase authentication, implemented a secure payment gateway with Cashfree, integrated chat bot with DialogFlow, resulting in reduced latency by 40% and improved database admin effectiveness by 20%.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://www.lifo.ai/"
         }
       ]
     }
