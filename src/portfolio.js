@@ -316,12 +316,12 @@ const achievementSection = {
       footerLink: [
         {name: "Coordinator, ROBOGAMES, Techkriti , IIT Kanpur", url: ""},
         {name: "Senior Executive , Show Management, Techkriti, IIT Kanpur", url: ""},
+         {name: "Technical Team Member, Humanoid IITK", url: ""},
         {name: "All India Rank 223, JEE Mains (B.Arch / B. Planning)", url: ""},
         {name: "All India Rank 254, National Mathematics Olympiad (NMO)", url: ""},
         {name: "All India Rank 189, National Aptitute Olympiad (NAO)", url: ""},
         {name: "All India Rank 403, National Talent Search Test (NTST)", url: ""},
-        {name: "Volunteered in Covid-19 testing in college Campus by Harvard Medical School ( HMS )", url: ""},
-        {name: "National Cadet Corp ( AIR FORCE NCC ) A Level Certificate of UNIT 03 UP AIR SQN NCC.", url: ""}
+        {name: "National Cadet Corp A Level -UNIT 03 UP AIR SQN NCC.", url: ""}
       ] 
     }
   ],
