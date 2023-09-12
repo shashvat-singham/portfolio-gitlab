@@ -349,7 +349,7 @@ const blogSection = {
         "Uniting Quantum Entanglement and QFT: Pioneering Quantum Computing and Secure Cryptography?"
     },
      {
-      url: " {
+      
       url: "https://medium.com/@shashvatsingham2001/quantum-entanglement-quantum-field-theory-and-their-computational-implications-507f675de220",
       title: "Markov Chain Monte Carlo ",
       description:
