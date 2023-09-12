@@ -378,10 +378,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/ shashvat-singham/embed/episodes/Quantum-Odyssey-From-the-Ordinary-to-the-Extraordinary-e297s2t"
-  ],
-  podcast: [
-    "https://anchor.fm/ shashvat-singham/embed/episodes/JK-Rowling-Harvard-Commencement-Speech-e29736n/a-aabhnbm"
+    "https://anchor.fm/ shashvat-singham/embed/episodes/Quantum-Odyssey-From-the-Ordinary-to-the-Extraordinary-e297s2t","https://anchor.fm/ shashvat-singham/embed/episodes/JK-Rowling-Harvard-Commencement-Speech-e29736n/a-aabhnbm"
   ],
   display: true // Set false to hide this section, defaults to true
 };
