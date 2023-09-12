@@ -280,7 +280,7 @@ const achievementSection = {
     {
       title: " The Chandrayaan Moon Mapping Challenge",
       subtitle:
-        "Third runner up in ISRO's The Chandrayaan Moon Mapping Challenge @ Inter-IIT-Tech-Meet'23",
+        "Third runner up in ISRO's The Chandrayaan Moon Mapping Challenge @ Inter-IIT-Tech-Meet'23.Amongst the eight payloads that the Chandrayaan-2 Orbiter carries, it carries some imaging payloads too. Using them and the abilities of machine learning and artificial intelligence to create a high resolution map of the moon.",
       image: require("./assets/images/isro.jpeg"),
       imageAlt: "Inter-IIt Tech Meet",
       footerLink: [
