@@ -347,6 +347,13 @@ const blogSection = {
       title: "Quantum Entanglement, Quantum Field Theory, and Their Computational Implications",
       description:
         "Uniting Quantum Entanglement and QFT: Pioneering Quantum Computing and Secure Cryptography?"
+    },
+     {
+      url: " {
+      url: "https://medium.com/@shashvatsingham2001/quantum-entanglement-quantum-field-theory-and-their-computational-implications-507f675de220",
+      title: "Markov Chain Monte Carlo ",
+      description:
+        "What makes MCMC a miraculous technique for sampling complex distributions in computational statistics?"
     }
   ],
   display: true // Set false to hide this section, defaults to true
