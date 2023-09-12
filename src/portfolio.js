@@ -379,7 +379,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://podcasters.spotify.com/pod/show/shashvat-singham"
+    "https://podcasters.spotify.com/pod/show/shashvat-singham/episodes/JK-Rowling-Harvard-Commencement-Speech-e29736n"
   ],
   display: true // Set false to hide this section, defaults to true
 };
