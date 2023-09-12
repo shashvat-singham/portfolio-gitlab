@@ -231,7 +231,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "I take pride in my involvement with several startups and companies, contributing to the inception and development of their cutting-edge technologies.",
   projects: [
     {
       image: require("./assets/images/deep.jpeg"),
@@ -333,7 +333,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With a passion for crafting innovative creations, I derive immense joy from both penning my thoughts and imparting my acquired knowledge to eager learners.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
@@ -357,7 +357,7 @@ const blogSection = {
 const talkSection = {
   title: "TALKS",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    "I relish the opportunity to disseminate my constrained wisdom and aspire to attain the coveted speaker badge 😅"
   ),
 
   talks: [
@@ -375,7 +375,7 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
-  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  subtitle: "My ardor for the synergy of cutting-edge technology and the literary realm is an unquenchable fire within me",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
