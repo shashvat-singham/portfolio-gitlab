@@ -356,8 +356,7 @@ const blogSection = {
 
 const talkSection = {
   title: "TALKS",
-  subtitle: emoji(
-    "I relish the opportunity to disseminate my constrained wisdom and aspire to attain the coveted speaker badge 😅"
+  subtitle: emoji("I relish the opportunity to disseminate my constrained wisdom and aspire to attain the coveted speaker badge 😅"
   ),
 
   talks: [
@@ -375,7 +374,7 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
-  subtitle: "My ardor for the synergy of cutting-edge technology and the literary realm is an unquenchable fire within me",
+  subtitle: "My ardor for the synergy of cutting-edge technology and the literary realm is an unquenchable fire within me.",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
