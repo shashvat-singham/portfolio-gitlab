@@ -371,8 +371,13 @@ const talkSection = {
       title: "ROBOGAMES: IARC, Manuever, Robowars",
       subtitle: "Techkriti, Asia's Largest Technical and Enterpreneural Fest @IITK ",
       slides_url: "https://drive.google.com/drive/folders/1DEYKxLcY1No8pD1H70jfjK15IYHciywm?usp=sharing",
-      event_url: "https://www.facebook.com/techkriti.iitk/",
-      image: require("./assets/images/robo.jpeg")
+      event_url: "https://www.facebook.com/techkriti.iitk/"
+    },
+    {
+      title: "Show Management: TOSC, Take Off, Fintech ",
+      subtitle: "Techkriti, Asia's Largest Technical and Enterpreneural Fest @IITK ",
+      // slides_url: "https://drive.google.com/drive/folders/1DEYKxLcY1No8pD1H70jfjK15IYHciywm?usp=sharing",
+      event_url: "https://techkriti.org/"
     }
   ],
   display: true // Set false to hide this section, defaults to true
